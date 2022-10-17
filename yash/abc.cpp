@@ -1,7 +1,7 @@
 # include <iostream>
-using namedspace std;
+using namespace std;
 
 int main(){
-  cout << "hello";
+  cout << "hello world";
   return 0;
 }
